@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play FPS games in my free time
 - 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills]
+(https://skillicons.dev/icons?i=py)](https://skillicons.dev)
