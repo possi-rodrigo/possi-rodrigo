@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play FPS games in my free time
   
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,discord,eclipse,gcp,git,github,java,linkedin,linux,py,sqlite)](https://skillicons.dev)
